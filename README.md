@@ -37,7 +37,16 @@ pip insatall pandas as pd
 ```
 
 `tag`
+
 `python'
+
 'data'
+
+테이블
+
+|이름|나이|성별|
+|-|-|-|
+|병수|29|남|
+|해찬|28|남|
 
 
