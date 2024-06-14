@@ -24,6 +24,7 @@ pip --trusted-host pypi.org --trusted-hostfiles.pythonhosted.org install numpy
 ```
 
 ## 목차 
+ - [깃허브](/
 
 
 
