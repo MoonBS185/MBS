@@ -29,6 +29,14 @@
   
 ![image](/skin.jpg)
 
+> **발표자료**
+
+[ppt]()
+
+> **연락처**
+
+github@gmail.com
+
 
 
 
