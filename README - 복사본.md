@@ -26,7 +26,7 @@ pip --trusted-host pypi.org --trusted-hostfiles.pythonhosted.org install numpy
 ## 목차 
  - [깃허브](/OT)
  - [파이썬 기초 및 문법](/Data)
- - [데이터 분석 기초]
+ - [데이터 분석 기초]()
  - [시각화]
  - [가설검정]
  - [머신러닝 및 특성 공학
