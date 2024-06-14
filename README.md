@@ -36,4 +36,8 @@ _언더바도 기울임_
 pip insatall pandas as pd 
 ```
 
+`tag`
+`python'
+'data'
+
 
