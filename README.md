@@ -31,5 +31,7 @@ _언더바도 기울임_
 [텍스트 확인](/OT/git.txt)
 
 ```
-코드 박스가 출력됩니다
+pip insatall pandas as pd 
 ```
+
+
